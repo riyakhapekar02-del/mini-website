@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+   
+
+
+
+.drop{
+    color: rgb(88, 88, 247);
+    letter-spacing: 2px;
+    padding: 8px;;
+}
+
+.welcome{
+    padding: 8px;
+}
+
+.para{
+    color: gray;
+    padding: 8px;
+
+}
+
+.skilldrop{
+background-color: white;
+border-radius: 15px;
+border: 2px solid rgb(194, 192, 195);
+
+padding: 25px;
+box-shadow: 20px;
+width: 800px;
+
+}
+
+.div{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.build{
+    width: 360px;
+border-radius: 15px;
+border: 2px solid rgb(113, 207, 244);
+background: linear-gradient(rgb(225, 241, 247),white);
+
+padding: 25px;
+box-shadow: 20px;
+}
+.para1{
+    padding: 8px;
+}
+
+.proof{
+padding: 10px;
+}
+
+.phone{
+    color: rgb(113, 113, 113);
+}
+
+.number{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+border-radius: 15px;
+border: 2px solid rgb(194, 192, 195);
+box-shadow: 20px;
+background-color: white;
+gap: 10px;
+padding: 25px;
+}
+::placeholder{
+    color:rgb(230, 228, 228)
+}
+
+.input{
+border-radius: 9px;
+border: 2px solid rgb(230 , 228, 228);
+color: rgb(251, 248, 248);
+width: 100%;
+padding-block: 10px;
+
+}
+
+.otp{
+    color: white;
+background-color: rgb(59, 59, 239);
+padding: 8px;
+width: 100%;
+border-radius: 9px;
+border: none;
+
+}
+
+.demo{
+    color: rgba(214, 210, 210);
+    
+    width: 100%;
+}
+
+span{
+    color: rgb(102, 101, 101);
+}
+
+.para2{
+    color: rgb(102, 101, 101);
+}
+
+.end{
+border-radius: 15px;
+
+padding: 25px;
+box-shadow: 20px;
+background-color: white;
+border: 2px solid rgb(113, 113, 113);
+width: 800px;
+
+}
+
+
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     background-color: rgb(235, 244, 248);
+    gap: 20px;
+    align-items: center;
+    height: 100vh;
+}
+
